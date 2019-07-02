@@ -1,0 +1,3 @@
+﻿  homework.c
+f:\bite learn\homework_0314\homework_0314\homework.c(11): warning C4013: “system”未定义；假设外部返回 int
+  homework_0314.vcxproj -> F:\bite learn\homework_0314\Debug\homework_0314.exe
